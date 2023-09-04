@@ -1,0 +1,15 @@
+{
+  "name": "projeto-backend",
+  "version": "1.0.0",
+  "description": "Priimeira API, feita com a ajuda de Simara Conceição e o projeto do Programaria",
+  "main": "ola-mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tici Bezerra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
